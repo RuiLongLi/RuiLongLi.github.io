@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 22222222222222222222222222222222222222222
 ======
 * B.S. in Suzhou,Xi'an Jiaotong University, 2012
 * M.S. in Jekyll, GitHub University, 2014
