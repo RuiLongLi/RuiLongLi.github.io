@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Ruilong Li"
-  avatar           : "profile.png"
-  bio              : "My name is Ruilong Li(Tom), an economic student from CHUHK&NWU. Welcome to my personal web"
+  avatar           : "profile.jpg"
+  bio              : "An economic student from CUHK&NWU with interests in social psychology. Nice to meet you!"
   location         : "HongKong"
-  employer         :
-  pubmed           :
+  employedemicpages"r         :
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ruilongli"
+  github           : "https:/github.com/ruilongli"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "
+  twitter          : 
   vine             :
   weibo            :
   xing             :
