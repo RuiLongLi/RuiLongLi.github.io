@@ -43,4 +43,4 @@ Service and leadership
   *	During the first semester of 2019-2020. We successfully established the first Special Guests Series, in which Mr. Stein, the general counsel in the American Embassy in Shanghai. Achieved attracting more than 50 students through the information released from email, posters and Wechat.
   *On behalf of XJTLU, I participated in international speech and debate competitions, such as the AUAP Speech competition.
   
-[My CV](https://github.com/ruilongli/ruilongli.github.io/files/CV.pdf)
+[My CV](https://github.com/ruilongli/ruilongli.github.io/blob/master/files/CV.pdf)
