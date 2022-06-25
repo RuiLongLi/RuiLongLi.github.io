@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 Hi! I'm Ruilong(Tom), an graduate student majored in applied economics & economic and social policy in The Chinese University of Hong Kong(CUHK) and Northwestern University. Besides learning in social science, I have just enough expertise in computer science and data science to make trouble. 
 
 
