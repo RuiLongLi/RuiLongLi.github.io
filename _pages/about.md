@@ -19,3 +19,6 @@ I received my BS in Economics and Finance from Xi'an Jiaotong Liverpool Universi
 Research Interest 
 ======
 I am currently looking for a funded Ph.D position in social psychology, applied economics.
+
+Looking for a part-time job/intern 
+======
